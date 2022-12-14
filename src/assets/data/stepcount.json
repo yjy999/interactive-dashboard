@@ -1,0 +1,1462 @@
+[
+    {
+        "date": "2022-01-01",
+        "stepcount": 8571
+    },
+    {
+        "date": "2022-01-02",
+        "stepcount": 7415
+    },
+    {
+        "date": "2022-01-03",
+        "stepcount": 2699
+    },
+    {
+        "date": "2022-01-04",
+        "stepcount": 1482
+    },
+    {
+        "date": "2022-01-05",
+        "stepcount": 9987
+    },
+    {
+        "date": "2022-01-06",
+        "stepcount": 2747
+    },
+    {
+        "date": "2022-01-07",
+        "stepcount": 9250
+    },
+    {
+        "date": "2022-01-08",
+        "stepcount": 2870
+    },
+    {
+        "date": "2022-01-09",
+        "stepcount": 9296
+    },
+    {
+        "date": "2022-01-10",
+        "stepcount": 7368
+    },
+    {
+        "date": "2022-01-11",
+        "stepcount": 2763
+    },
+    {
+        "date": "2022-01-12",
+        "stepcount": 5170
+    },
+    {
+        "date": "2022-01-13",
+        "stepcount": 7447
+    },
+    {
+        "date": "2022-01-14",
+        "stepcount": 9036
+    },
+    {
+        "date": "2022-01-15",
+        "stepcount": 716
+    },
+    {
+        "date": "2022-01-16",
+        "stepcount": 5238
+    },
+    {
+        "date": "2022-01-17",
+        "stepcount": 9405
+    },
+    {
+        "date": "2022-01-18",
+        "stepcount": 9522
+    },
+    {
+        "date": "2022-01-19",
+        "stepcount": 5849
+    },
+    {
+        "date": "2022-01-20",
+        "stepcount": 7641
+    },
+    {
+        "date": "2022-01-21",
+        "stepcount": 6333
+    },
+    {
+        "date": "2022-01-22",
+        "stepcount": 9147
+    },
+    {
+        "date": "2022-01-23",
+        "stepcount": 9452
+    },
+    {
+        "date": "2022-01-24",
+        "stepcount": 1671
+    },
+    {
+        "date": "2022-01-25",
+        "stepcount": 5366
+    },
+    {
+        "date": "2022-01-26",
+        "stepcount": 7974
+    },
+    {
+        "date": "2022-01-27",
+        "stepcount": 9440
+    },
+    {
+        "date": "2022-01-28",
+        "stepcount": 7467
+    },
+    {
+        "date": "2022-01-29",
+        "stepcount": 5127
+    },
+    {
+        "date": "2022-01-30",
+        "stepcount": 1889
+    },
+    {
+        "date": "2022-01-31",
+        "stepcount": 919
+    },
+    {
+        "date": "2022-02-01",
+        "stepcount": 1542
+    },
+    {
+        "date": "2022-02-02",
+        "stepcount": 7735
+    },
+    {
+        "date": "2022-02-03",
+        "stepcount": 8027
+    },
+    {
+        "date": "2022-02-04",
+        "stepcount": 4689
+    },
+    {
+        "date": "2022-02-05",
+        "stepcount": 9458
+    },
+    {
+        "date": "2022-02-06",
+        "stepcount": 6991
+    },
+    {
+        "date": "2022-02-07",
+        "stepcount": 4730
+    },
+    {
+        "date": "2022-02-08",
+        "stepcount": 2814
+    },
+    {
+        "date": "2022-02-09",
+        "stepcount": 975
+    },
+    {
+        "date": "2022-02-10",
+        "stepcount": 4005
+    },
+    {
+        "date": "2022-02-11",
+        "stepcount": 2038
+    },
+    {
+        "date": "2022-02-12",
+        "stepcount": 6547
+    },
+    {
+        "date": "2022-02-13",
+        "stepcount": 4210
+    },
+    {
+        "date": "2022-02-14",
+        "stepcount": 1327
+    },
+    {
+        "date": "2022-02-15",
+        "stepcount": 7138
+    },
+    {
+        "date": "2022-02-16",
+        "stepcount": 3208
+    },
+    {
+        "date": "2022-02-17",
+        "stepcount": 5382
+    },
+    {
+        "date": "2022-02-18",
+        "stepcount": 4700
+    },
+    {
+        "date": "2022-02-19",
+        "stepcount": 6657
+    },
+    {
+        "date": "2022-02-20",
+        "stepcount": 6050
+    },
+    {
+        "date": "2022-02-21",
+        "stepcount": 6797
+    },
+    {
+        "date": "2022-02-22",
+        "stepcount": 9606
+    },
+    {
+        "date": "2022-02-23",
+        "stepcount": 5703
+    },
+    {
+        "date": "2022-02-24",
+        "stepcount": 940
+    },
+    {
+        "date": "2022-02-25",
+        "stepcount": 9518
+    },
+    {
+        "date": "2022-02-26",
+        "stepcount": 7367
+    },
+    {
+        "date": "2022-02-27",
+        "stepcount": 987
+    },
+    {
+        "date": "2022-02-28",
+        "stepcount": 9512
+    },
+    {
+        "date": "2022-03-01",
+        "stepcount": 4336
+    },
+    {
+        "date": "2022-03-02",
+        "stepcount": 8949
+    },
+    {
+        "date": "2022-03-03",
+        "stepcount": 9703
+    },
+    {
+        "date": "2022-03-04",
+        "stepcount": 2213
+    },
+    {
+        "date": "2022-03-05",
+        "stepcount": 7320
+    },
+    {
+        "date": "2022-03-06",
+        "stepcount": 2822
+    },
+    {
+        "date": "2022-03-07",
+        "stepcount": 580
+    },
+    {
+        "date": "2022-03-08",
+        "stepcount": 4146
+    },
+    {
+        "date": "2022-03-09",
+        "stepcount": 6825
+    },
+    {
+        "date": "2022-03-10",
+        "stepcount": 1463
+    },
+    {
+        "date": "2022-03-11",
+        "stepcount": 9046
+    },
+    {
+        "date": "2022-03-12",
+        "stepcount": 7002
+    },
+    {
+        "date": "2022-03-13",
+        "stepcount": 6345
+    },
+    {
+        "date": "2022-03-14",
+        "stepcount": 1839
+    },
+    {
+        "date": "2022-03-15",
+        "stepcount": 5391
+    },
+    {
+        "date": "2022-03-16",
+        "stepcount": 2285
+    },
+    {
+        "date": "2022-03-17",
+        "stepcount": 8390
+    },
+    {
+        "date": "2022-03-18",
+        "stepcount": 4885
+    },
+    {
+        "date": "2022-03-19",
+        "stepcount": 4151
+    },
+    {
+        "date": "2022-03-20",
+        "stepcount": 5121
+    },
+    {
+        "date": "2022-03-21",
+        "stepcount": 7424
+    },
+    {
+        "date": "2022-03-22",
+        "stepcount": 9343
+    },
+    {
+        "date": "2022-03-23",
+        "stepcount": 8411
+    },
+    {
+        "date": "2022-03-24",
+        "stepcount": 1678
+    },
+    {
+        "date": "2022-03-25",
+        "stepcount": 5468
+    },
+    {
+        "date": "2022-03-26",
+        "stepcount": 6680
+    },
+    {
+        "date": "2022-03-27",
+        "stepcount": 3562
+    },
+    {
+        "date": "2022-03-28",
+        "stepcount": 9293
+    },
+    {
+        "date": "2022-03-29",
+        "stepcount": 9007
+    },
+    {
+        "date": "2022-03-30",
+        "stepcount": 9822
+    },
+    {
+        "date": "2022-03-31",
+        "stepcount": 7464
+    },
+    {
+        "date": "2022-04-01",
+        "stepcount": 1343
+    },
+    {
+        "date": "2022-04-02",
+        "stepcount": 7966
+    },
+    {
+        "date": "2022-04-03",
+        "stepcount": 7971
+    },
+    {
+        "date": "2022-04-04",
+        "stepcount": 8776
+    },
+    {
+        "date": "2022-04-05",
+        "stepcount": 9869
+    },
+    {
+        "date": "2022-04-06",
+        "stepcount": 7827
+    },
+    {
+        "date": "2022-04-07",
+        "stepcount": 9487
+    },
+    {
+        "date": "2022-04-08",
+        "stepcount": 9580
+    },
+    {
+        "date": "2022-04-09",
+        "stepcount": 7902
+    },
+    {
+        "date": "2022-04-10",
+        "stepcount": 7906
+    },
+    {
+        "date": "2022-04-11",
+        "stepcount": 2157
+    },
+    {
+        "date": "2022-04-12",
+        "stepcount": 3652
+    },
+    {
+        "date": "2022-04-13",
+        "stepcount": 7699
+    },
+    {
+        "date": "2022-04-14",
+        "stepcount": 2242
+    },
+    {
+        "date": "2022-04-15",
+        "stepcount": 8629
+    },
+    {
+        "date": "2022-04-16",
+        "stepcount": 6380
+    },
+    {
+        "date": "2022-04-17",
+        "stepcount": 9637
+    },
+    {
+        "date": "2022-04-18",
+        "stepcount": 9587
+    },
+    {
+        "date": "2022-04-19",
+        "stepcount": 5146
+    },
+    {
+        "date": "2022-04-20",
+        "stepcount": 9430
+    },
+    {
+        "date": "2022-04-21",
+        "stepcount": 5858
+    },
+    {
+        "date": "2022-04-22",
+        "stepcount": 9418
+    },
+    {
+        "date": "2022-04-23",
+        "stepcount": 3646
+    },
+    {
+        "date": "2022-04-24",
+        "stepcount": 2649
+    },
+    {
+        "date": "2022-04-25",
+        "stepcount": 6702
+    },
+    {
+        "date": "2022-04-26",
+        "stepcount": 8570
+    },
+    {
+        "date": "2022-04-27",
+        "stepcount": 5215
+    },
+    {
+        "date": "2022-04-28",
+        "stepcount": 3142
+    },
+    {
+        "date": "2022-04-29",
+        "stepcount": 6494
+    },
+    {
+        "date": "2022-04-30",
+        "stepcount": 3206
+    },
+    {
+        "date": "2022-05-01",
+        "stepcount": 5788
+    },
+    {
+        "date": "2022-05-02",
+        "stepcount": 9340
+    },
+    {
+        "date": "2022-05-03",
+        "stepcount": 5141
+    },
+    {
+        "date": "2022-05-04",
+        "stepcount": 7575
+    },
+    {
+        "date": "2022-05-05",
+        "stepcount": 6183
+    },
+    {
+        "date": "2022-05-06",
+        "stepcount": 9926
+    },
+    {
+        "date": "2022-05-07",
+        "stepcount": 8953
+    },
+    {
+        "date": "2022-05-08",
+        "stepcount": 6436
+    },
+    {
+        "date": "2022-05-09",
+        "stepcount": 1193
+    },
+    {
+        "date": "2022-05-10",
+        "stepcount": 3152
+    },
+    {
+        "date": "2022-05-11",
+        "stepcount": 6572
+    },
+    {
+        "date": "2022-05-12",
+        "stepcount": 9917
+    },
+    {
+        "date": "2022-05-13",
+        "stepcount": 3036
+    },
+    {
+        "date": "2022-05-14",
+        "stepcount": 4275
+    },
+    {
+        "date": "2022-05-15",
+        "stepcount": 5326
+    },
+    {
+        "date": "2022-05-16",
+        "stepcount": 1039
+    },
+    {
+        "date": "2022-05-17",
+        "stepcount": 8366
+    },
+    {
+        "date": "2022-05-18",
+        "stepcount": 9166
+    },
+    {
+        "date": "2022-05-19",
+        "stepcount": 2143
+    },
+    {
+        "date": "2022-05-20",
+        "stepcount": 4891
+    },
+    {
+        "date": "2022-05-21",
+        "stepcount": 2530
+    },
+    {
+        "date": "2022-05-22",
+        "stepcount": 7609
+    },
+    {
+        "date": "2022-05-23",
+        "stepcount": 8125
+    },
+    {
+        "date": "2022-05-24",
+        "stepcount": 8960
+    },
+    {
+        "date": "2022-05-25",
+        "stepcount": 2320
+    },
+    {
+        "date": "2022-05-26",
+        "stepcount": 1099
+    },
+    {
+        "date": "2022-05-27",
+        "stepcount": 4487
+    },
+    {
+        "date": "2022-05-28",
+        "stepcount": 7714
+    },
+    {
+        "date": "2022-05-29",
+        "stepcount": 6458
+    },
+    {
+        "date": "2022-05-30",
+        "stepcount": 6434
+    },
+    {
+        "date": "2022-05-31",
+        "stepcount": 726
+    },
+    {
+        "date": "2022-06-01",
+        "stepcount": 2107
+    },
+    {
+        "date": "2022-06-02",
+        "stepcount": 7333
+    },
+    {
+        "date": "2022-06-03",
+        "stepcount": 7738
+    },
+    {
+        "date": "2022-06-04",
+        "stepcount": 6374
+    },
+    {
+        "date": "2022-06-05",
+        "stepcount": 2694
+    },
+    {
+        "date": "2022-06-06",
+        "stepcount": 9670
+    },
+    {
+        "date": "2022-06-07",
+        "stepcount": 9709
+    },
+    {
+        "date": "2022-06-08",
+        "stepcount": 4214
+    },
+    {
+        "date": "2022-06-09",
+        "stepcount": 5822
+    },
+    {
+        "date": "2022-06-10",
+        "stepcount": 9569
+    },
+    {
+        "date": "2022-06-11",
+        "stepcount": 9813
+    },
+    {
+        "date": "2022-06-12",
+        "stepcount": 8439
+    },
+    {
+        "date": "2022-06-13",
+        "stepcount": 3778
+    },
+    {
+        "date": "2022-06-14",
+        "stepcount": 3549
+    },
+    {
+        "date": "2022-06-15",
+        "stepcount": 7492
+    },
+    {
+        "date": "2022-06-16",
+        "stepcount": 7640
+    },
+    {
+        "date": "2022-06-17",
+        "stepcount": 2057
+    },
+    {
+        "date": "2022-06-18",
+        "stepcount": 4748
+    },
+    {
+        "date": "2022-06-19",
+        "stepcount": 5929
+    },
+    {
+        "date": "2022-06-20",
+        "stepcount": 4998
+    },
+    {
+        "date": "2022-06-21",
+        "stepcount": 8687
+    },
+    {
+        "date": "2022-06-22",
+        "stepcount": 4061
+    },
+    {
+        "date": "2022-06-23",
+        "stepcount": 795
+    },
+    {
+        "date": "2022-06-24",
+        "stepcount": 1961
+    },
+    {
+        "date": "2022-06-25",
+        "stepcount": 3684
+    },
+    {
+        "date": "2022-06-26",
+        "stepcount": 2243
+    },
+    {
+        "date": "2022-06-27",
+        "stepcount": 1946
+    },
+    {
+        "date": "2022-06-28",
+        "stepcount": 4050
+    },
+    {
+        "date": "2022-06-29",
+        "stepcount": 3322
+    },
+    {
+        "date": "2022-06-30",
+        "stepcount": 9520
+    },
+    {
+        "date": "2022-07-01",
+        "stepcount": 4237
+    },
+    {
+        "date": "2022-07-02",
+        "stepcount": 8034
+    },
+    {
+        "date": "2022-07-03",
+        "stepcount": 4754
+    },
+    {
+        "date": "2022-07-04",
+        "stepcount": 4510
+    },
+    {
+        "date": "2022-07-05",
+        "stepcount": 5570
+    },
+    {
+        "date": "2022-07-06",
+        "stepcount": 5782
+    },
+    {
+        "date": "2022-07-07",
+        "stepcount": 6228
+    },
+    {
+        "date": "2022-07-08",
+        "stepcount": 5540
+    },
+    {
+        "date": "2022-07-09",
+        "stepcount": 8371
+    },
+    {
+        "date": "2022-07-10",
+        "stepcount": 5372
+    },
+    {
+        "date": "2022-07-11",
+        "stepcount": 4713
+    },
+    {
+        "date": "2022-07-12",
+        "stepcount": 1286
+    },
+    {
+        "date": "2022-07-13",
+        "stepcount": 8548
+    },
+    {
+        "date": "2022-07-14",
+        "stepcount": 1094
+    },
+    {
+        "date": "2022-07-15",
+        "stepcount": 5923
+    },
+    {
+        "date": "2022-07-16",
+        "stepcount": 2075
+    },
+    {
+        "date": "2022-07-17",
+        "stepcount": 1512
+    },
+    {
+        "date": "2022-07-18",
+        "stepcount": 4851
+    },
+    {
+        "date": "2022-07-19",
+        "stepcount": 1365
+    },
+    {
+        "date": "2022-07-20",
+        "stepcount": 7204
+    },
+    {
+        "date": "2022-07-21",
+        "stepcount": 1651
+    },
+    {
+        "date": "2022-07-22",
+        "stepcount": 9640
+    },
+    {
+        "date": "2022-07-23",
+        "stepcount": 4355
+    },
+    {
+        "date": "2022-07-24",
+        "stepcount": 2825
+    },
+    {
+        "date": "2022-07-25",
+        "stepcount": 7917
+    },
+    {
+        "date": "2022-07-26",
+        "stepcount": 9542
+    },
+    {
+        "date": "2022-07-27",
+        "stepcount": 5739
+    },
+    {
+        "date": "2022-07-28",
+        "stepcount": 707
+    },
+    {
+        "date": "2022-07-29",
+        "stepcount": 9939
+    },
+    {
+        "date": "2022-07-30",
+        "stepcount": 1156
+    },
+    {
+        "date": "2022-07-31",
+        "stepcount": 7540
+    },
+    {
+        "date": "2022-08-01",
+        "stepcount": 5395
+    },
+    {
+        "date": "2022-08-02",
+        "stepcount": 7934
+    },
+    {
+        "date": "2022-08-03",
+        "stepcount": 8759
+    },
+    {
+        "date": "2022-08-04",
+        "stepcount": 9095
+    },
+    {
+        "date": "2022-08-05",
+        "stepcount": 9945
+    },
+    {
+        "date": "2022-08-06",
+        "stepcount": 4565
+    },
+    {
+        "date": "2022-08-07",
+        "stepcount": 4041
+    },
+    {
+        "date": "2022-08-08",
+        "stepcount": 1559
+    },
+    {
+        "date": "2022-08-09",
+        "stepcount": 1960
+    },
+    {
+        "date": "2022-08-10",
+        "stepcount": 4624
+    },
+    {
+        "date": "2022-08-11",
+        "stepcount": 6351
+    },
+    {
+        "date": "2022-08-12",
+        "stepcount": 8826
+    },
+    {
+        "date": "2022-08-13",
+        "stepcount": 8280
+    },
+    {
+        "date": "2022-08-14",
+        "stepcount": 914
+    },
+    {
+        "date": "2022-08-15",
+        "stepcount": 5988
+    },
+    {
+        "date": "2022-08-16",
+        "stepcount": 1446
+    },
+    {
+        "date": "2022-08-17",
+        "stepcount": 1910
+    },
+    {
+        "date": "2022-08-18",
+        "stepcount": 995
+    },
+    {
+        "date": "2022-08-19",
+        "stepcount": 5669
+    },
+    {
+        "date": "2022-08-20",
+        "stepcount": 4724
+    },
+    {
+        "date": "2022-08-21",
+        "stepcount": 4693
+    },
+    {
+        "date": "2022-08-22",
+        "stepcount": 8621
+    },
+    {
+        "date": "2022-08-23",
+        "stepcount": 6972
+    },
+    {
+        "date": "2022-08-24",
+        "stepcount": 6287
+    },
+    {
+        "date": "2022-08-25",
+        "stepcount": 7697
+    },
+    {
+        "date": "2022-08-26",
+        "stepcount": 6882
+    },
+    {
+        "date": "2022-08-27",
+        "stepcount": 5707
+    },
+    {
+        "date": "2022-08-28",
+        "stepcount": 3799
+    },
+    {
+        "date": "2022-08-29",
+        "stepcount": 4695
+    },
+    {
+        "date": "2022-08-30",
+        "stepcount": 2301
+    },
+    {
+        "date": "2022-08-31",
+        "stepcount": 7434
+    },
+    {
+        "date": "2022-09-01",
+        "stepcount": 5423
+    },
+    {
+        "date": "2022-09-02",
+        "stepcount": 3306
+    },
+    {
+        "date": "2022-09-03",
+        "stepcount": 1117
+    },
+    {
+        "date": "2022-09-04",
+        "stepcount": 3315
+    },
+    {
+        "date": "2022-09-05",
+        "stepcount": 657
+    },
+    {
+        "date": "2022-09-06",
+        "stepcount": 1798
+    },
+    {
+        "date": "2022-09-07",
+        "stepcount": 6082
+    },
+    {
+        "date": "2022-09-08",
+        "stepcount": 4379
+    },
+    {
+        "date": "2022-09-09",
+        "stepcount": 1163
+    },
+    {
+        "date": "2022-09-10",
+        "stepcount": 3080
+    },
+    {
+        "date": "2022-09-11",
+        "stepcount": 9957
+    },
+    {
+        "date": "2022-09-12",
+        "stepcount": 9398
+    },
+    {
+        "date": "2022-09-13",
+        "stepcount": 1882
+    },
+    {
+        "date": "2022-09-14",
+        "stepcount": 5735
+    },
+    {
+        "date": "2022-09-15",
+        "stepcount": 1884
+    },
+    {
+        "date": "2022-09-16",
+        "stepcount": 5737
+    },
+    {
+        "date": "2022-09-17",
+        "stepcount": 5212
+    },
+    {
+        "date": "2022-09-18",
+        "stepcount": 6334
+    },
+    {
+        "date": "2022-09-19",
+        "stepcount": 3908
+    },
+    {
+        "date": "2022-09-20",
+        "stepcount": 9283
+    },
+    {
+        "date": "2022-09-21",
+        "stepcount": 9640
+    },
+    {
+        "date": "2022-09-22",
+        "stepcount": 588
+    },
+    {
+        "date": "2022-09-23",
+        "stepcount": 7708
+    },
+    {
+        "date": "2022-09-24",
+        "stepcount": 3402
+    },
+    {
+        "date": "2022-09-25",
+        "stepcount": 1173
+    },
+    {
+        "date": "2022-09-26",
+        "stepcount": 8786
+    },
+    {
+        "date": "2022-09-27",
+        "stepcount": 6561
+    },
+    {
+        "date": "2022-09-28",
+        "stepcount": 7140
+    },
+    {
+        "date": "2022-09-29",
+        "stepcount": 2794
+    },
+    {
+        "date": "2022-09-30",
+        "stepcount": 4180
+    },
+    {
+        "date": "2022-10-01",
+        "stepcount": 3785
+    },
+    {
+        "date": "2022-10-02",
+        "stepcount": 9501
+    },
+    {
+        "date": "2022-10-03",
+        "stepcount": 2795
+    },
+    {
+        "date": "2022-10-04",
+        "stepcount": 4093
+    },
+    {
+        "date": "2022-10-05",
+        "stepcount": 8410
+    },
+    {
+        "date": "2022-10-06",
+        "stepcount": 6341
+    },
+    {
+        "date": "2022-10-07",
+        "stepcount": 3556
+    },
+    {
+        "date": "2022-10-08",
+        "stepcount": 837
+    },
+    {
+        "date": "2022-10-09",
+        "stepcount": 8954
+    },
+    {
+        "date": "2022-10-10",
+        "stepcount": 1734
+    },
+    {
+        "date": "2022-10-11",
+        "stepcount": 8432
+    },
+    {
+        "date": "2022-10-12",
+        "stepcount": 3283
+    },
+    {
+        "date": "2022-10-13",
+        "stepcount": 3079
+    },
+    {
+        "date": "2022-10-14",
+        "stepcount": 713
+    },
+    {
+        "date": "2022-10-15",
+        "stepcount": 1458
+    },
+    {
+        "date": "2022-10-16",
+        "stepcount": 1787
+    },
+    {
+        "date": "2022-10-17",
+        "stepcount": 4051
+    },
+    {
+        "date": "2022-10-18",
+        "stepcount": 1109
+    },
+    {
+        "date": "2022-10-19",
+        "stepcount": 8737
+    },
+    {
+        "date": "2022-10-20",
+        "stepcount": 1462
+    },
+    {
+        "date": "2022-10-21",
+        "stepcount": 2001
+    },
+    {
+        "date": "2022-10-22",
+        "stepcount": 4786
+    },
+    {
+        "date": "2022-10-23",
+        "stepcount": 2987
+    },
+    {
+        "date": "2022-10-24",
+        "stepcount": 4263
+    },
+    {
+        "date": "2022-10-25",
+        "stepcount": 9622
+    },
+    {
+        "date": "2022-10-26",
+        "stepcount": 3704
+    },
+    {
+        "date": "2022-10-27",
+        "stepcount": 8614
+    },
+    {
+        "date": "2022-10-28",
+        "stepcount": 4785
+    },
+    {
+        "date": "2022-10-29",
+        "stepcount": 6662
+    },
+    {
+        "date": "2022-10-30",
+        "stepcount": 6938
+    },
+    {
+        "date": "2022-10-31",
+        "stepcount": 6128
+    },
+    {
+        "date": "2022-11-01",
+        "stepcount": 5413
+    },
+    {
+        "date": "2022-11-02",
+        "stepcount": 3620
+    },
+    {
+        "date": "2022-11-03",
+        "stepcount": 8644
+    },
+    {
+        "date": "2022-11-04",
+        "stepcount": 8836
+    },
+    {
+        "date": "2022-11-05",
+        "stepcount": 5905
+    },
+    {
+        "date": "2022-11-06",
+        "stepcount": 2807
+    },
+    {
+        "date": "2022-11-07",
+        "stepcount": 7076
+    },
+    {
+        "date": "2022-11-08",
+        "stepcount": 6596
+    },
+    {
+        "date": "2022-11-09",
+        "stepcount": 5677
+    },
+    {
+        "date": "2022-11-10",
+        "stepcount": 8425
+    },
+    {
+        "date": "2022-11-11",
+        "stepcount": 4142
+    },
+    {
+        "date": "2022-11-12",
+        "stepcount": 3659
+    },
+    {
+        "date": "2022-11-13",
+        "stepcount": 5422
+    },
+    {
+        "date": "2022-11-14",
+        "stepcount": 7350
+    },
+    {
+        "date": "2022-11-15",
+        "stepcount": 8344
+    },
+    {
+        "date": "2022-11-16",
+        "stepcount": 6983
+    },
+    {
+        "date": "2022-11-17",
+        "stepcount": 8070
+    },
+    {
+        "date": "2022-11-18",
+        "stepcount": 5335
+    },
+    {
+        "date": "2022-11-19",
+        "stepcount": 8262
+    },
+    {
+        "date": "2022-11-20",
+        "stepcount": 8227
+    },
+    {
+        "date": "2022-11-21",
+        "stepcount": 9527
+    },
+    {
+        "date": "2022-11-22",
+        "stepcount": 8244
+    },
+    {
+        "date": "2022-11-23",
+        "stepcount": 1021
+    },
+    {
+        "date": "2022-11-24",
+        "stepcount": 5949
+    },
+    {
+        "date": "2022-11-25",
+        "stepcount": 5464
+    },
+    {
+        "date": "2022-11-26",
+        "stepcount": 5784
+    },
+    {
+        "date": "2022-11-27",
+        "stepcount": 5255
+    },
+    {
+        "date": "2022-11-28",
+        "stepcount": 1725
+    },
+    {
+        "date": "2022-11-29",
+        "stepcount": 8244
+    },
+    {
+        "date": "2022-11-30",
+        "stepcount": 8354
+    },
+    {
+        "date": "2022-12-01",
+        "stepcount": 2289
+    },
+    {
+        "date": "2022-12-02",
+        "stepcount": 2469
+    },
+    {
+        "date": "2022-12-03",
+        "stepcount": 9172
+    },
+    {
+        "date": "2022-12-04",
+        "stepcount": 1219
+    },
+    {
+        "date": "2022-12-05",
+        "stepcount": 728
+    },
+    {
+        "date": "2022-12-06",
+        "stepcount": 4525
+    },
+    {
+        "date": "2022-12-07",
+        "stepcount": 1841
+    },
+    {
+        "date": "2022-12-08",
+        "stepcount": 6443
+    },
+    {
+        "date": "2022-12-09",
+        "stepcount": 4570
+    },
+    {
+        "date": "2022-12-10",
+        "stepcount": 9107
+    },
+    {
+        "date": "2022-12-11",
+        "stepcount": 6262
+    },
+    {
+        "date": "2022-12-12",
+        "stepcount": 5681
+    },
+    {
+        "date": "2022-12-13",
+        "stepcount": 6359
+    },
+    {
+        "date": "2022-12-14",
+        "stepcount": 2120
+    },
+    {
+        "date": "2022-12-15",
+        "stepcount": 4100
+    },
+    {
+        "date": "2022-12-16",
+        "stepcount": 2180
+    },
+    {
+        "date": "2022-12-17",
+        "stepcount": 579
+    },
+    {
+        "date": "2022-12-18",
+        "stepcount": 9372
+    },
+    {
+        "date": "2022-12-19",
+        "stepcount": 2556
+    },
+    {
+        "date": "2022-12-20",
+        "stepcount": 4488
+    },
+    {
+        "date": "2022-12-21",
+        "stepcount": 9736
+    },
+    {
+        "date": "2022-12-22",
+        "stepcount": 2546
+    },
+    {
+        "date": "2022-12-23",
+        "stepcount": 7217
+    },
+    {
+        "date": "2022-12-24",
+        "stepcount": 5693
+    },
+    {
+        "date": "2022-12-25",
+        "stepcount": 1690
+    },
+    {
+        "date": "2022-12-26",
+        "stepcount": 8021
+    },
+    {
+        "date": "2022-12-27",
+        "stepcount": 5226
+    },
+    {
+        "date": "2022-12-28",
+        "stepcount": 7872
+    },
+    {
+        "date": "2022-12-29",
+        "stepcount": 3727
+    },
+    {
+        "date": "2022-12-30",
+        "stepcount": 4096
+    },
+    {
+        "date": "2022-12-31",
+        "stepcount": 3333
+    }
+]

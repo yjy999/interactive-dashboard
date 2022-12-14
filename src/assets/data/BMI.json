@@ -1,0 +1,77 @@
+[
+    {
+        "year": "2008",
+        "weight": 27.33,
+        "height": 130
+    },
+    {
+        "year": "2009",
+        "weight": 30.46,
+        "height": 135.4
+    },
+    {
+        "year": "2010",
+        "weight": 33.74,
+        "height": 140.2
+    },
+    {
+        "year": "2011",
+        "weight": 37.69,
+        "height": 145.3
+    },
+    {
+        "year": "2012",
+        "weight": 42.49,
+        "height": 151.9
+    },
+    {
+        "year": "2013",
+        "weight": 48.08,
+        "height": 159.5
+    },
+    {
+        "year": "2014",
+        "weight": 53.37,
+        "height": 165.9
+    },
+    {
+        "year": "2015",
+        "weight": 57.08,
+        "height": 169.8
+    },
+    {
+        "year": "2016",
+        "weight": 59.35,
+        "height": 171.6
+    },
+    {
+        "year": "2017",
+        "weight": 60.68,
+        "height": 172.3
+    },
+    {
+        "year": "2018",
+        "weight": 61.14,
+        "height": 172.7
+    },
+    {
+        "year": "2019",
+        "weight": 62.13,
+        "height": 173.3
+    },
+    {
+        "year": "2020",
+        "weight": 64.3,
+        "height": 173.3
+    },
+    {
+        "year": "2021",
+        "weight": 64.9,
+        "height": 173.3
+    },
+    {
+        "year": "2022",
+        "weight": 65.5,
+        "height": 173.3
+    }
+]

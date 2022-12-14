@@ -1,0 +1,22 @@
+[
+    {
+        "perior": "入睡期",
+        "times": 1
+    },
+    {
+        "perior": "浅睡期",
+        "times": 2.5
+    },
+    {
+        "perior": "熟睡期",
+        "times": 3
+    },
+    {
+        "perior": "深睡期",
+        "times": 2
+    },
+    {
+        "perior": "快速眼动",
+        "times": 1
+    }
+]
